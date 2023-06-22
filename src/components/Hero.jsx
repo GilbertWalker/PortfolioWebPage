@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import Button from "./Button";
 import AOS from "aos";
 import "aos/dist/aos.css";
@@ -21,20 +21,20 @@ export default function Hero() {
           src="/images/Group.png"
           alt=""
         />
-        <p className=" relative font-bold pt-48 sm:pt-20 sm:w-[700px]  text-center sm:text-left text-[40px] leading-10 sm:leading-[88px] sm:text-[68px] lg:text-[78px] ">
+        <p className=" relative font-bold pt-48 sm:pt-20 sm:w-[500px]  text-center sm:text-left text-[30px] leading-10 sm:leading-[85px] sm:text-[68px] lg:text-[55px] ">
           Nice to meet you! <br />
           I'm{" "}
           <span className="border-b-4 inline border-b-primary-green mb-0">
-            Leonard Adjei.
+            Ofori-Boye.
           </span>
         </p>
         <p className="py-5 sm:py-10 lg:py-14 sm:text-left text-center text-[16px] sm:text-[18px] text-gray-400">
-          Based in the Accra,i'm front-end developer <br />
+          Based in Kumasi, Ghana, and a front-end developer <br />
           passionate about building accessible web apps <br />
           that users love.
         </p>
 
-        <div className="w-full flex justify-center sm:block">
+        {<div className="w-full flex justify-center sm:block">
           <Link
             to="contact"
             spy={true}
@@ -47,7 +47,7 @@ export default function Hero() {
               style="font-bold border-b-4 pb-2 border-b-primary-green hover:text-primary-green tracking-wider"
             />
           </Link>{" "}
-        </div>
+        </div>}
       </div>
 
       <div className=" bg-secondary-dark absolute  sm:right-0  lg:right-40 top-0  pt-32 ">
@@ -57,8 +57,8 @@ export default function Hero() {
           alt=""
         />
         <img
-          className="w-[174px]   sm:h-[500px] sm:w-full"
-          src="/images/pic-removebg.png"
+          className="w-[174px] h-[174px]  sm:h-[500px] sm:w-full"
+          src="/images/Untitled design.png"
           alt=""
         />
       </div>

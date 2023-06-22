@@ -1,48 +1,48 @@
 [{
-    "image": "/images/port1.png",
+    "image": "/images/Devjobs.png",
     "title": "Devjobs",
-    "stack": ["Html","TailwindCSS","React"],
-    "viewCode": "https://github.com/blameleo/devjob-app",
-    "viewProj": "https://devjobsleo.netlify.app/"
+    "stack": ["Html","SCSS","ReactJS"],
+    "viewCode": "https://github.com/GilbertWalker/devjob-app",
+    "viewProj": "https://vercel.com/gilbertwalker/devjob-app/EK3fTywRbXgHKq27PdtgpCEM3X6x"
 
 },
 {
-    "image": "/images/port2.png",
-    "title": "spin the bottle",
-    "stack": ["Html","TailwindCSS", "Javascript"],
-    "viewCode": "https://github.com/blameleo/spin-the-bottle",
-    "viewProj": "https://spinthebottleklm.netlify.app/"
+    "image": "/images/interactive.png",
+    "title": "Interactive UI",
+    "stack": ["Html","CSS", "Javascript"],
+    "viewCode": "https://github.com/GilbertWalker/Interactive-Ratings",
+    "viewProj": "https://vercel.com/gilbertwalker/interactive-ratings/3UuiYbyqgumZdXh4E4fZmcDRYHP1"
 
 },
 {
-    "image": "/images/proj3.png",
+    "image": "/images/azubishop.png",
     "title": "Azubi e-commerce",
-    "stack": ["Html","TailwindCSS","React"],
-    "viewCode": "https://github.com/blameleo/miniE-commerce-App",
-    "viewProj": "https://keen-kataifi-67e6d7.netlify.app/"
+    "stack": ["Html","TailwindCSS","ReactJS"],
+    "viewCode": "https://github.com/GilbertWalker/Azubi-Ecommerce",
+    "viewProj": "https://vercel.com/gilbertwalker/azubi-ecommerce/2TLbohWQQ5vKxnJGuB3z7iQdTrVV"
 
 },
 {
-    "image": "/images/proj4.png",
-    "title": "Calendly",
-    "stack": ["Html","TailwindCSS","React"],
-    "viewCode": "https://github.com/blameleo/codetrain/tree/calendly",
-    "viewProj": "https://magnificent-bubblegum-266b76.netlify.app/"
+    "image": "/images/QRcode.png",
+    "title": "QR Code",
+    "stack": ["Html","CSS"],
+    "viewCode": "https://github.com/GilbertWalker/QR_Code-frontend",
+    "viewProj": "https://vercel.com/gilbertwalker/qr-code-frontend/5eaksXgGHyhrWMGWnAaZmasKHX75"
 
 },
 {
-    "image": "/images/proj5.png",
-    "title": "Task tracker",
-    "stack": ["Html","TailwindCSS","React"],
-    "viewCode": "https://github.com/blameleo/task-tracker",
-    "viewProj": "https://tasktrackerleo.netlify.app/"
+    "image": "/images/youtube.png",
+    "title": "Youtube Clone",
+    "stack": ["Html","CSS"],
+    "viewCode": "https://github.com/GilbertWalker/Youtube-Cone",
+    "viewProj": "https://vercel.com/gilbertwalker/youtube-cone/CmGnceTzCVxws1T2DQvgzziCgpUy"
 
 },{
-    "image": "/images/proj6.png",
-    "title": "Weather App",
-    "stack": ["Html","TailwindCSS","Javascript"],
-    "viewCode": "https://github.com/blameleo/Weather-App",
-    "viewProj": "https://hilarious-daffodil-66c1cd.netlify.app/"
+    "image": "/images/stats-preview.png",
+    "title": "Stats Preview",
+    "stack": ["Html","CSS"],
+    "viewCode": "https://github.com/GilbertWalker/stats-preview-card-component-main",
+    "viewProj": "https://vercel.com/gilbertwalker/stats-preview-card-component-main/DfMZivxBDTdE6QvDhiDgcdCkkABB"
 
 }
 

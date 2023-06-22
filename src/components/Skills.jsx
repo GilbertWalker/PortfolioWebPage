@@ -1,4 +1,4 @@
-import React , {useEffect} from "react";
+import {useEffect} from "react";
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import {
@@ -56,7 +56,7 @@ export default function Skills() {
       </div>
       <div data-aos="zoom-in" data-aos-delay="800">
         <div className="flex items-center">
-          <h1 className="font-bold text-[32px] sm:text-[48px]">FIREBASE</h1>
+          <h1 className="font-bold text-[32px] sm:text-[48px]">Boostrap</h1>
           <DiFirebase className="text-4xl ml-2 text-primary-green" />
         </div>
         <p className="text-center sm:text-left">1 Year Experience</p>

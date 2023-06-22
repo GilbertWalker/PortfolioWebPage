@@ -6,6 +6,6 @@ export default function Button({ name, style, link }) {
     // <Link to={link} target={'_blank'}>
     <button className={style}>{name}</button>
 
-    // {/* </Link> */}
+    
   );
 }

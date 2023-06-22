@@ -1,4 +1,3 @@
-import React from "react";
 import Button from "./Button";
 import ProjCard from "./ProjCard";
 import projects from "../data.json"
@@ -25,12 +24,6 @@ export default function Projects() {
           return <ProjCard key={i} data={item}  />
 
         })}
-        {/* <ProjCard state={showButton} show={show} hide={hide} />
-        <ProjCard state={showButton} show={show} hide={hide} />
-        <ProjCard state={showButton} show={show} hide={hide} />
-        <ProjCard state={showButton} show={show} hide={hide} />
-        <ProjCard state={showButton} show={show} hide={hide} />
-        <ProjCard state={showButton} show={show} hide={hide} /> */}
       </div>
     </div>
   );
